@@ -33,9 +33,6 @@ Este projeto tem como objetivo criar um ebook digital com o auxílio de ferramen
 2. Crie uma nova branch para sua feature ou correção.
 3. Submeta um pull request detalhando suas modificações.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Agradecimentos
 
